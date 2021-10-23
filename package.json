@@ -1,0 +1,11 @@
+{
+  "name": "gitpod-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kingdevnl/gitpod-testing",
+  "author": "KingdevNL <jasper@Kingdev.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
